@@ -1,0 +1,12 @@
+{
+  "name": "inclassassignment",
+  "displayName": "inclassassignment",
+  "expo": {
+    "name": "inclassassignment",
+    "slug": "inclassassignment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
